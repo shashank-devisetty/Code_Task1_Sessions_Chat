@@ -1,0 +1,38 @@
+/* 
+    Created on : Jan 18, 2017, 10:58:54 AM
+    Author     : shashank
+*/
+table{
+   border: 1px solid black;
+   padding: 15px;
+   cellspacing: 30px;
+   font-family: Times New Roman
+}
+tr,td{
+   align: center;
+   font-size: 30px;
+   padding: 15px;
+   cellspacing: 30px;
+   border: 1px solid black;
+   font-family: Times New Roman
+}
+#t1{
+    colspan: 2;
+    align: center;
+    font-size: 30px;
+   padding: 15px;
+   cellspacing: 30px;
+    border: 1px solid black;
+    font-family: Times New Roman
+}
+.c1{
+    line-height: 2em;
+    size: 180px;
+    font-family: Times New Roman
+}
+h2{
+    font-family: Times New Roman;
+    color: red;
+    align: center;
+    margin-top: 50px;
+}

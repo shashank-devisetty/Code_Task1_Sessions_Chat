@@ -1,0 +1,16 @@
+/* 
+    Created on : Jan 18, 2017, 11:51:32 AM
+    Author     : shashank
+*/
+p{
+    font-family: Times New Roman;
+    font-size: 20px;
+    color: yellowgreen
+}
+div{
+    background-color: grey;
+    width: 50%;
+    height: 300px;
+    align: center;
+    text-align: center
+}
